@@ -1,4 +1,4 @@
-# Diffusion-Models-MNIST
+# Denoising Diffusion Probablistic Models - DDPM
 
 # Diffusion Model Training for Image Generation using Mnist Dataset
 
