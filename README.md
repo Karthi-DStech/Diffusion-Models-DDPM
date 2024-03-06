@@ -51,7 +51,7 @@ The training scripts are set up to use the MNIST dataset, which is automatically
 
 ## Models Saving
 
-The trained models are saved to the disk every 5000 epochs by default. You can change this frequency in the training scripts.
+The trained models are saved to the disk every 2000 or 4000 epochs by default. You can change this frequency in the training scripts and the saving frequency will depend upon the scripts (explore train.py and updated_train.py).
 
 
 
