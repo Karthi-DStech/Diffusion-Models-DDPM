@@ -14,7 +14,7 @@ This project contains the code necessary to train a diffusion model for image ge
 
 
 
-## Project Structure
+### Project Structure
 
 - `models/`: Contains the individual modules used to build the diffusion model.
     - `attention_block.py`: Defines the attention mechanisms.
@@ -32,7 +32,7 @@ This project contains the code necessary to train a diffusion model for image ge
 - `train.py`: Script for training the model without TensorBoard logging.
 - `updated_train.py`: Script for training the model with TensorBoard logging.
 
-## Requirements
+### Requirements
 
 To run the code, you need the following:
 
@@ -45,11 +45,11 @@ To run the code, you need the following:
 Install the necessary packages using pip:
 
 
-## Dataset
+### Dataset
 
 The training scripts are set up to use the MNIST dataset, which is automatically downloaded. If you wish to use a different dataset, you'll need to modify the `images_utils.py` file and potentially the training scripts to handle your dataset's loading and processing.
 
-## Models Saving
+### Models Saving
 
 The trained models are saved to the disk every 2000 or 4000 epochs by default. You can change this frequency in the training scripts and the saving frequency will depend upon the scripts (explore train.py and updated_train.py).
 
