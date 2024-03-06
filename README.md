@@ -5,6 +5,7 @@
 This project contains the code necessary to train a diffusion model for image generation. It includes a PyTorch implementation of the U-Net model, several building blocks used in the model architecture, and scripts for training and logging.
 
 ## Generated Image after 40_000 Epochs
+<img width="259" alt="40_000 Epochs - 1" src="https://github.com/Karthi-DStech/Diffusion-Models-MNIST/assets/126179797/706603c6-c451-4401-911e-524ebc2f6753">
 
 
 ## Project Structure
