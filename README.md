@@ -1,6 +1,7 @@
 # Denoising Diffusion Probablistic Models - DDPM
 
 **Diffusion Model Training for Image Generation using Mnist Dataset**
+
 This project contains the code necessary to train a diffusion model for image generation. It includes a PyTorch implementation of the U-Net model, several building blocks used in the model architecture, and scripts for training and logging.
 
 ## Generated Image after 40_000 Epochs
